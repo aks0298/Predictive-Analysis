@@ -71,7 +71,8 @@ The table below presents the accuracy scores (%) achieved by each model across d
 ### 4.2 Result Visualization
 The following graph provides a visual comparison of model accuracy under different sampling techniques, making performance trends easier to interpret.
 
-![Accuracy Comparison](images/results.png)
+![Accuracy Comparison](results.png)
+
 
 ---
 
